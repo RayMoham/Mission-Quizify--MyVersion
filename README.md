@@ -73,6 +73,7 @@ Make sure you have the following installed on your machine:
 
 **Python**: Required for running the backend logic and integrating various APIs. - https://www.python.org/downloads/
 **Git**: Essential for version control and managing the project's codebase - https://git-scm.com/
+
 **Google Cloud SDK**: Necessary for accessing Google APIs and managing Google Service Account credentials.
 **Streamlit**: Needed for creating and running the interactive user interface. - https://streamlit.io/
 
@@ -110,3 +111,12 @@ streamlit run task_10.py
 ```
 
 It will open in your browser to view the project.
+
+## Acknowledgments
+
+This project is based on [mission-quizify](https://github.com/radicalxdev/mission-quizify), developed by [radicalxdev]. We thank them for providing the foundation for this project.
+
+- [Radical AI](https://www.radicalai.org/) - For providing the challenges and inspiration for this project.
+- [Streamlit](https://streamlit.io/) - For the user-friendly interface development.
+- [Google Cloud Platform](https://cloud.google.com/) - For the various APIs and services used in this project.
+- [Langchain](https://langchain.com/) - For providing text embeddings technology.
